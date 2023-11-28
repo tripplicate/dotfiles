@@ -1,0 +1,37 @@
+{
+  "recommendations": [
+    // Themes & icons
+    "equinusocio.vsc-community-material-theme",
+    "jacobwgillespie.minimal-icons",
+    "pkief.material-product-icons",
+
+    // Environment
+    "vscodevim.vim",
+    "editorconfig.editorconfig",
+    "mikestead.dotenv",
+    "codezombiech.gitignore",
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "github.vscode-github-actions",
+    "vue.vscode-typescript-vue-plugin",
+    "vue.volar",
+
+    // Productivity
+    "adpyke.codesnap",
+    "gruntfuggly.todo-tree",
+
+    // Git & Github
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "kenhowardpdx.vscode-gist",
+
+    // Docker & K8s
+    "ms-azuretools.vscode-docker",
+
+    // Other tools
+    "kisstkondoros.vscode-gutter-preview",
+    "helixquar.randomeverything",
+    "rapidapi.vscode-rapidapi-client",
+    "rapidapi.vscode-services"
+  ]
+}

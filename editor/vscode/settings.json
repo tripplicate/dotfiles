@@ -1,0 +1,77 @@
+{
+  "keyboard.dispatch": "keyCode",
+  "editor.fontSize": 16,
+  "editor.fontFamily": "Cascadia Mono",
+  "editor.fontLigatures": false,
+  "editor.tabSize": 2,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.unicodeHighlight.includeStrings": false,
+  "editor.unicodeHighlight.allowedLocales": {
+    "ru": true
+  },
+  "window.menuBarVisibility": "toggle",
+  "workbench.iconTheme": "minimal-icons-without-explorer-arrows",
+  "workbench.productIconTheme": "material-product-icons",
+  "workbench.startupEditor": "none",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  // Linter & Formatter
+  "prettier.enable": false,
+  "editor.codeActionsOnSave": {
+    // Eslint
+    "source.fixAll": "explicit",
+    "source.organizeImports": "never",
+    // Stylelint
+    "source.fixAll.stylelint": true
+  },
+  // Eslint
+  "editor.formatOnSave": false,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "vue",
+    "json",
+    "jsonc",
+    "yaml"
+  ],
+  // Stylelint
+  "stylelint.validate": [
+    "css",
+    "scss",
+    "less",
+    "postcss",
+    "vue"
+  ],
+  // Vim
+  "vim.easymotion": true,
+  "vim.incsearch": true,
+  "vim.useSystemClipboard": true,
+  "vim.useCtrlKeys": true,
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": [
+        "<C-h>"
+      ],
+      "commands": [
+        "workbench.action.previousEditor"
+      ]
+    },
+    {
+      "before": [
+        "<C-l>"
+      ],
+      "commands": [
+        "workbench.action.nextEditor"
+      ]
+    },
+  ],
+  "vim.handleKeys": {
+    "<C-a>": false,
+    "<C-f>": false,
+    "<C-w>": false,
+    "<C-p>": false
+  }
+}
