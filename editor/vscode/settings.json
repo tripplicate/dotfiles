@@ -41,6 +41,7 @@
   "stylelint.validate": [
     "css",
     "scss",
+    "sass",
     "less",
     "postcss",
     "vue"

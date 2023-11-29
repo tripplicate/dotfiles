@@ -32,6 +32,8 @@
     "kisstkondoros.vscode-gutter-preview",
     "helixquar.randomeverything",
     "rapidapi.vscode-rapidapi-client",
-    "rapidapi.vscode-services"
+    "rapidapi.vscode-services",
+    "bierner.markdown-emoji",
+    "bierner.markdown-preview-github-styles"
   ]
 }
