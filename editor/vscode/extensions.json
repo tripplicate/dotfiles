@@ -1,39 +1,40 @@
 {
   "recommendations": [
-    // Themes & icons
-    "equinusocio.vsc-community-material-theme",
-    "jacobwgillespie.minimal-icons",
-    "pkief.material-product-icons",
-
-    // Environment
-    "vscodevim.vim",
-    "editorconfig.editorconfig",
-    "mikestead.dotenv",
+    "adpyke.codesnap",
+    "amodio.toggle-excluded-files",
+    "bierner.markdown-emoji",
+    "bierner.markdown-preview-github-styles",
+    "bit.vscode-bit",
     "codezombiech.gitignore",
     "dbaeumer.vscode-eslint",
-    "stylelint.vscode-stylelint",
-    "github.vscode-github-actions",
-    "vue.vscode-typescript-vue-plugin",
-    "vue.volar",
-
-    // Productivity
-    "adpyke.codesnap",
-    "gruntfuggly.todo-tree",
-
-    // Git & Github
+    "drcika.apc-extension",
     "eamodio.gitlens",
-    "mhutchie.git-graph",
-    "kenhowardpdx.vscode-gist",
-
-    // Docker & K8s
-    "ms-azuretools.vscode-docker",
-
-    // Other tools
-    "kisstkondoros.vscode-gutter-preview",
+    "EditorConfig.EditorConfig",
+    "Equinusocio.vsc-material-theme",
+    "equinusocio.vsc-material-theme-icons",
+    "formulahendry.code-runner",
+    "github.vscode-github-actions",
+    "golang.go",
+    "Gruntfuggly.todo-tree",
     "helixquar.randomeverything",
-    "rapidapi.vscode-rapidapi-client",
+    "jacobwgillespie.minimal-icons",
+    "kenhowardpdx.vscode-gist",
+    "kisstkondoros.vscode-gutter-preview",
+    "mhutchie.git-graph",
+    "mikestead.dotenv",
+    "mrmlnc.vscode-scss",
+    "ms-azuretools.vscode-docker",
+    "Nuxt.mdc",
+    "PKief.material-product-icons",
+    "RapidAPI.vscode-rapidapi-client",
     "rapidapi.vscode-services",
-    "bierner.markdown-emoji",
-    "bierner.markdown-preview-github-styles"
+    "redhat.vscode-yaml",
+    "ritwickdey.LiveServer",
+    "stylelint.vscode-stylelint",
+    "tonybaloney.vscode-pets",
+    "vscodevim.vim",
+    "VSpaceCode.whichkey",
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin"
   ]
 }
