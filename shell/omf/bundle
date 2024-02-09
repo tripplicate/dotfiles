@@ -1,6 +1,5 @@
 package https://github.com/edc/bass
 package https://github.com/fabioantunes/fish-nvm
 package https://github.com/jhillyerd/plugin-git
-package https://github.com/jorgebucaran/nvm.fish
 theme bobthefish
 theme default
