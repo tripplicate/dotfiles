@@ -1,0 +1,9 @@
+[env]
+TERM = "xterm-256color"
+
+[window]
+decorations = "buttonless"
+padding = {x = 24, y = 24}
+
+[font]
+size = 12
