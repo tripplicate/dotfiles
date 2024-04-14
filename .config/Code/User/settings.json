@@ -1,5 +1,6 @@
 {
   "workbench.settings.editor": "ui",
+  "workbench.colorTheme": "Vitesse Dark Soft",
   "workbench.iconTheme": "minimal-icons-without-explorer-arrows",
   "workbench.productIconTheme": "material-product-icons",
   // General
@@ -10,7 +11,7 @@
   "editor.scrollbar.vertical": "auto",
   "editor.scrollbar.horizontal": "auto",
   "editor.minimap.enabled": false,
-  "breadcrumbs.enabled": true,
+  "breadcrumbs.enabled": false,
   "redhat.telemetry.enabled": false,
   "explorer.confirmDragAndDrop": false,
   "explorer.compactFolders": false,
@@ -20,8 +21,9 @@
   "editor.linkedEditing": true,
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": true,
+  "editor.renderWhitespace": "boundary",
   // Inlay hints
-  "editor.inlayHints.enabled": "on",
+  "editor.inlayHints.enabled": "off",
   "typescript.inlayHints.parameterNames.enabled": "all",
   "typescript.inlayHints.variableTypes.enabled": false,
   "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
@@ -75,11 +77,27 @@
     "vue"
   ],
   // Configs for languages
-  "[markdown]": {
-    "editor.renderWhitespace": "all"
-  },
   "[vue]": {
     "editor.defaultFormatter": "Vue.volar"
+  },
+  // Apc
+  "apc.electron": {
+    "titleBarStyle": "hiddenInset",
+    "trafficLightPosition": {
+      "x": 7,
+      "y": 5
+    }
+  },
+  "apc.activityBar": {
+    "position": "bottom",
+    "hideSettings": true,
+    "size": 40,
+    "itemSize": 32
+  },
+  "apc.statusBar": {
+    "position": "editor-bottom",
+    "height": 40,
+    "fontSize": 14
   },
   // Vim
   "vim.easymotion": true,
